@@ -1,6 +1,7 @@
 layout: page
 title: "Errata"
 permalink: /errata/
+
     p. 124 For elimination (third bullet point) not to impact the determinant, this should refer (not to a linear combination, but) to “the sum of that row/equation with a multiple of any other row/equation”.
     p. 306 Problem 11 should say “Taylor expand f(x^{(k-1)}) and f(x^{(k-2)})“. Then, it should say “Plug these relations”.
     p. 363 “Observe that in \partial p(x)” –> “Observe that in \partial p(x_j)“
