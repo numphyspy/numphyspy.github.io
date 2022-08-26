@@ -1,5 +1,7 @@
 layout: page
+
 title: "Errata in 1st edition"
+
 permalink: /errata1/
 
 p. 124 For elimination (third bullet point) not to impact the determinant, this should refer (not to a linear combination, but) to “the sum of that row/equation with a multiple of any other row/equation”.
